@@ -1,5 +1,5 @@
 # ECTE871-Robotics-and-Flexible-Automation---Project
-his project, Nut Tightening Task Automation, was developed as part of the coursework for ECTE871 - Robotics and Flexible Automation at the University of Wollongong. It was a collaborative group project (Group 11) aimed at designing and simulating a robotic solution for an industrial nut-tightening task. The assignment required integrating robotic kinematics, trajectory analysis, and automation concepts to accomplish the specified objectives.
+This project, Nut Tightening Task Automation, was developed as part of the coursework for ECTE871 - Robotics and Flexible Automation at the University of Wollongong. It was a collaborative group project (Group 11) aimed at designing and simulating a robotic solution for an industrial nut-tightening task. The assignment required integrating robotic kinematics, trajectory analysis, and automation concepts to accomplish the specified objectives.
 
 ## Project Description
 The task involves automating the insertion and tightening of four nuts onto four horizontal bolts. The workflow includes:
